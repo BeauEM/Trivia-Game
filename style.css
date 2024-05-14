@@ -78,4 +78,17 @@ body{
     cursor: pointer;
     width: 150px;
     display: block;
+    display: none;
   }
+
+  .correct{
+    background: #04d112;
+    font-size: 25px;
+  }
+
+  .incorrect{
+    background: #d10404;
+    font-size: 25px;
+  }
+
+  
