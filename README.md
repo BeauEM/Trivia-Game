@@ -1,2 +1,9 @@
-# Trivia Game
-Answer sets of 5 random trivia questions. 
+# Video Game Trivia
+Answer sets of 4 random trivia questions. 
+
+
+## Tools used for this project
+* HTML
+* Javascript
+* CSS
+* Git/Github
